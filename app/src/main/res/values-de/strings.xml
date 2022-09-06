@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rolladensteuerung</string>
+    <string name="button">Button</string>
+    <string name="laden">laden...</string>
+    <string name="auf">Auf</string>
+    <string name="stop">Stop</string>
+    <string name="zu">Zu</string>
+    <string name="rolladen_auswaehlen">Rolladenauswahl</string>
+    <string name="verbindungsfehler">Verbindungsfehler</string>
+    <string name="steuerung">Steuerung</string>
+    <string name="verbindungsstatus">Verbindungsstatus</string>
+    <string name="neuer_rolladen">Neuer Rolladen</string>
+    <string name="new_roller">Neuer Rolladen</string>
+    <string name="edit_roller">Rolladen bearbeiten</string>
+    <string name="name">Name</string>
+    <string name="ip">IP</string>
+    <string name="save">Speichern</string>
+</resources>

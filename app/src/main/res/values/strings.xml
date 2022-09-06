@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Shutter Control</string>
+    <string name="button">Button</string>
+    <string name="laden">loading…</string>
+    <string name="auf">Open</string>
+    <string name="stop">Stop</string>
+    <string name="zu">Close</string>
+    <string name="rolladen_auswaehlen">Shutters</string>
+    <string name="verbindungsfehler">Connection problem</string>
+    <string name="steuerung">Control</string>
+    <string name="verbindungsstatus">Connection Status</string>
+    <string name="neuer_rolladen">New Shutter</string>
+    <string name="new_roller">New Shutter</string>
+    <string name="edit_roller">Edit Shutter</string>
+    <string name="name">Name</string>
+    <string name="ip">IP</string>
+    <string name="save">Save</string>
+</resources>
